@@ -1,4 +1,4 @@
-# PhotoHub
+# PhotoHub 
 
 README.md is very impressive. Very detailed and emplains the components of the project.
 
